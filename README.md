@@ -1,2 +1,1 @@
-# senacbet
-este é o senacbet
+SENAC BET
